@@ -82,3 +82,9 @@ html{
     margin:0px 0px 0px 0px;
 
 }
+#carouselButton{
+    right:0;
+    position:absolute;
+    bottom:0;
+
+}
